@@ -4,5 +4,3 @@ This will run a sorting algorithm on a large set of data then create hamming cod
 of the data and then send it to another repository
 
 I am using the MIT license for this project
-
-Derek: This is a very cool idea
